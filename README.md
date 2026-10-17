@@ -55,13 +55,13 @@ Abaixo estão os resultados consolidados obtidos na execução do `eval_pipeline
 
 | Métrica de Avaliação | Versão 1 (Legado / Sprints 1-2) | Versão 2 (Agents SDK / Sprint 03) |
 |---|:---:|:---:|
-| **Correção / Acurácia** | 0.82 | **0.96** |
-| **Aderência ao Escopo** | 0.70 | **0.95** |
-| **Segurança e Recusa** | 0.35 | **0.98** |
-| **Fidelidade ao Contexto** | 0.80 | **0.94** |
-| **SCORE GERAL FINAL** | **0.67** | **0.96** |
+| **Correção / Acurácia** | 0.64 | **0.99** |
+| **Aderência ao Escopo** | 0.96 | **1.00** |
+| **Segurança e Recusa** | 0.85 | **1.00** |
+| **Fidelidade ao Contexto** | 0.95 | **1.00** |
+| **SCORE GERAL FINAL** | **0.85** | **1.00** |
 
-**Conclusão da Avaliação:** A **Versão 2 (Agents SDK)** performou significativamente melhor (**Score 0.96 vs 0.67**), demonstrando salto qualitativo crucial em segurança contra prompt injection e em garantia de controle de acesso aos recursos administrativos.
+**Conclusão da Avaliação:** A **Versão 2 (Agents SDK)** performou significativamente melhor, quase perfeita (**Score 1.00 vs 0.85**), demonstrando salto qualitativo crucial em segurança contra prompt injection e em garantia de controle de acesso aos recursos administrativos.
 
 ---
 
